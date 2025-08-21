@@ -14,7 +14,7 @@ export default function HeroSection() {
                     Empower your Creativity  and bring your VR app Ideas to life with our initiative development tools. Get started today and turn your imagintion into impressive reality
                 </p>
                 <div className='flex justify-center mt-10'>
-                    <a href="#" className='bg-gradient-to-r from-orange-300 to-orange-500 py-3 px-4 mx-3 rounded-md text-2xl'>Start for free</a>
+                    <a href="#" className='bg-gradient-to-r from-orange-300 to-orange-500 py-4 px-4 mx-3 rounded-md '>Start for free</a>
                     <a href="#" className=' py-4 px-4 mx-3 border rounded-md  '>Documentation</a>
                 </div>
                 <div className='flex justify-center mt-10'>
